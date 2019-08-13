@@ -6,7 +6,7 @@ As a Data Scientist in an insurance company , we need to analyze the available d
 
 Dataset Description :
  
-The training dataset consists of data corresponding to 00 customers and the test dataset consists of 12 customers .Following are the features of the dataset 
+The training dataset consists of data corresponding to56500 customers and the test dataset consists of 12 customers .Following are the features of the dataset 
 
 Target : Claim Status(Claim.Status)
 Agency : Name of Agency
